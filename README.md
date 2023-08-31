@@ -1,6 +1,6 @@
 # Assignment1-Tailwind-shoe-card
 
-Hosted Link:
+Hosted Link: https://ankitkumar1303.github.io/Assignment1-Tailwind-shoe-card/dist/index.html
 
 Github Link: https://github.com/AnkitKumar1303/Assignment1-Tailwind-shoe-card
 
